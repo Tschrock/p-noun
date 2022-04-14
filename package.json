@@ -1,0 +1,14 @@
+{
+  "name": "p-noun",
+  "version": "1.0.0",
+  "description": "A pronoun-replacement library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Schrock <tschrock123@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
